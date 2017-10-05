@@ -1,0 +1,5 @@
+site_name: TestMKDocsOK
+pages:
+    - Home: index.md
+    - About: test.md
+theme: readthedocs
