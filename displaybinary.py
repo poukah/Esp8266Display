@@ -1,6 +1,6 @@
 import ssd1306
 import machine
-
+###
 i2c = machine.I2C(scl=machine.Pin(2), sda=machine.Pin(0))
 oled = ssd1306.SSD1306_I2C(128, 64, i2c) #creation instance
 
