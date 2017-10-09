@@ -2,6 +2,6 @@ site_name: TestMKDocsOK
 pages:
     - Home: index.md
     - About: about.md
-    - ATests: test.md
+    - ABTests: test.md
 
 theme: readthedocs
