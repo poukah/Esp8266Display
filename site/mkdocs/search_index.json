@@ -21,9 +21,14 @@
             "title": "Project layout"
         }, 
         {
+            "location": "/about/", 
+            "text": "Colonne 1\n\n\nColonne 2\n\n\n\n\n\n\n\n\n\n\nContenu 1\n\n\nContenu 2", 
+            "title": "About"
+        }, 
+        {
             "location": "/test/", 
             "text": "Cupcake indexer is a snazzy new project for indexing small cakes.\n\n\n\n\nAbove: Cupcake indexer in progress", 
-            "title": "About"
+            "title": "Tests"
         }
     ]
 }
